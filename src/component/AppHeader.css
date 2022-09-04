@@ -1,0 +1,12 @@
+.app-header{
+    border-bottom: 2px solid #202020;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202020;
+}
+
+.app-header-logo{
+    height: 60px;
+}
