@@ -1,0 +1,18 @@
+.app-feed {
+    background-color: rgb(0, 0, 0);
+}
+
+.app-feed-image {
+    width: 100%;
+    height: auto;
+}
+
+.app-feed-logo {
+    position: absolute;
+    margin-left: calc(100px);
+    margin-top: calc(50px);
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
